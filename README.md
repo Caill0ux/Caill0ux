@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caill0ux
 - 👀 I’m interested in EVERTHING
-- 🌱 I’m currently learning Shaders
+- 🌱 I’m currently learning how to create a depository
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me : Pierre#0976
 - UwU
